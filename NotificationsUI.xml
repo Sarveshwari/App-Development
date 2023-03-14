@@ -11,7 +11,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-
         android:paddingBottom="20dp">
 
         <ImageView
@@ -67,6 +66,7 @@
                 app:layout_constraintStart_toStartOf="@+id/imageView2"
                 app:layout_constraintTop_toTopOf="parent"
                 app:srcCompat="@drawable/feet" />
+            
         </androidx.constraintlayout.widget.ConstraintLayout>
 
         <TextView
@@ -83,8 +83,8 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="125dp"
             android:padding="20dp">
-
         </Switch>
+        
     </LinearLayout>
 
     <LinearLayout
@@ -120,6 +120,7 @@
                 app:layout_constraintStart_toStartOf="@+id/imageView4"
                 app:layout_constraintTop_toTopOf="@+id/imageView4"
                 app:srcCompat="@drawable/water" />
+            
         </androidx.constraintlayout.widget.ConstraintLayout>
 
         <TextView
@@ -136,8 +137,8 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="110dp"
             android:padding="20dp">
-
         </Switch>
+        
     </LinearLayout>
 
     <LinearLayout
@@ -174,6 +175,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="@+id/imageView6"
                 app:srcCompat="@drawable/sleep" />
+            
         </androidx.constraintlayout.widget.ConstraintLayout>
 
         <TextView
@@ -190,8 +192,8 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="115dp"
             android:padding="20dp">
-
         </Switch>
+        
     </LinearLayout>
 
     <LinearLayout
