@@ -1,7 +1,6 @@
 package com.example.feeedback;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import android.widget.LinearLayout;
 import android.widget.ImageView;
@@ -104,9 +103,5 @@ public class MainActivity extends AppCompatActivity {
                 star10.setImageResource(R.drawable.fullstar);
             }
         });
-
-
-
-
     }
 }
