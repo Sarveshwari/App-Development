@@ -33,7 +33,6 @@
             android:textColor="@color/black"
             android:textSize="25sp"
             android:textStyle="bold" />
-
     </LinearLayout>
 
     <LinearLayout
@@ -54,7 +53,6 @@
             android:textSize="20dp"
             android:textColor="@color/black"
             android:text="Rate your dietician" />
-
     </LinearLayout>
 
     <LinearLayout
@@ -105,7 +103,6 @@
             android:layout_weight="1"
             android:padding="10dp"
             app:srcCompat="@drawable/star" />
-
     </LinearLayout>
 
     <LinearLayout
@@ -127,7 +124,6 @@
             android:textSize="20dp"
             android:textColor="@color/black"
             android:text="Rate your overall experience" />
-
     </LinearLayout>
 
     <LinearLayout
@@ -178,7 +174,6 @@
             android:layout_weight="1"
             android:padding="10dp"
             app:srcCompat="@drawable/star" />
-
     </LinearLayout>
 
     <LinearLayout
@@ -199,7 +194,6 @@
             android:textSize="20dp"
             android:textColor="@color/black"
             android:text="Give your feedback" />
-
     </LinearLayout>
 
     <LinearLayout
